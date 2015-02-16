@@ -1,0 +1,28 @@
+{
+  "name": "karma-jasmine-eventually",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for Jasmine Eventually.",
+  "author": {
+    "name": "Dmitry Grekov",
+    "email": "dgrekov@dimagre.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dgrekov/karma-jasmine-eventually.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "jasmine",
+    "jasmine-eventually"
+  ],
+  "dependencies": {
+    "jasmine-eventually": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/dgrekov/karma-jasmine-eventually/issues"
+  },
+  "homepage": "https://github.com/dgrekov/karma-jasmine-eventually"
+}
