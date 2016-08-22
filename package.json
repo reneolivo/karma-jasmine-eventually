@@ -19,7 +19,7 @@
     "jasmine-eventually"
   ],
   "dependencies": {
-    "jasmine-eventually": "^1.0.2"
+    "jasmine_eventually": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/dgrekov/karma-jasmine-eventually/issues"
